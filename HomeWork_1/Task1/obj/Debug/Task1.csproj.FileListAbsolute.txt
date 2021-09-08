@@ -1,0 +1,6 @@
+/Users/andriushaguseff/RiderProjects/HomeWork_1/Task1/bin/Debug/Task1.exe
+/Users/andriushaguseff/RiderProjects/HomeWork_1/Task1/bin/Debug/Task1.pdb
+/Users/andriushaguseff/RiderProjects/HomeWork_1/Task1/obj/Debug/Task1.csprojAssemblyReference.cache
+/Users/andriushaguseff/RiderProjects/HomeWork_1/Task1/obj/Debug/Task1.csproj.CoreCompileInputs.cache
+/Users/andriushaguseff/RiderProjects/HomeWork_1/Task1/obj/Debug/Task1.exe
+/Users/andriushaguseff/RiderProjects/HomeWork_1/Task1/obj/Debug/Task1.pdb
